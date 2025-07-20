@@ -27,9 +27,7 @@ The goal is to highlight cloud security engineering skills relevant to federal a
 | 🗄️ Storage | **Amazon S3** | Secure static file storage |
 | 🔐 Security | **AWS IAM** | Role-based access controls |
 | 🔒 Encryption | **AWS KMS** | Encrypt data in S3 (SSE-KMS) [production-level security] or SSE-S3 (S3-managed keys) [test/demo-level security] |
-| 🛡️ Scanning | **Amazon Inspector** | Security scans of deployed resources |
-| 🧪 Static Analysis | **Checkov** (by Bridgecrew) | Infrastructure-as-Code vulnerability scanning |
-| 📜 Compliance | **Mock RMF SSP** | Documentation to simulate FedRAMP/NIST control coverage |
+| 📜Compliance | **Mock RMF SSP** | Documentation to simulate FedRAMP/NIST control coverage |
 | 📈 Monitoring | **CloudWatch Logs** | Collect logs from Lambda/API Gateway |
 | 📚 Auditing | **AWS CloudTrail** | Track API activity across AWS services |
 
